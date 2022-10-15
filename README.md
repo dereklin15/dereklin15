@@ -1,4 +1,5 @@
-<h1>Hi, I'm Derek! <br/><a href="https://github.com/dereklin15"></a>, <a href="https://www.linkedin.com/in/derekklin/">Cybersecurity Professional</a><br/>
+<h1>Hi, I'm Derek! <br/><a href="https://github.com/dereklin15"></a>
+  Hospitality/Leadership/Cybersecurity Professional <br/>
   <h2> About Me</h2> <br/>
   Hello World, my name is Derek Lin and this is my Github profile. This is a place to get to know me better and show more of what I stand for and my capabilities. Core Values: POLISHED, THOUGHTFUL, ENTHUSIASTIC
 
@@ -6,9 +7,9 @@ My career started after graduating from the University of Hawaii at Manoa with a
 
 The COVID19 pandemic greatly affected the world with extreme disruption in the hospitality industry. Due to the pandemic, the industry was shut down and it was a challenging time for all. From operating the hotel with limited staff, to closing the hotel for a 7month period, and to reopening the hotel with new and safe policies and procedures, there was much to be gained from the experience. Given that I was able to develop and hone in on my soft skills, I had the desire to learn hard skills and continue to be ENTHUSIASTIC about growth and development in life.
 
-I then pivoted to the more technology side of hospitality, joining Autoclerk INC, Best Western Hotels and Resorts as a IT Technician. Autoclerk is a Hotel Property Management System with over 600+ properties world-wide. I also went through the California State University East Bay Certificate of Cybersecurity Bootcamp powered by Fullstack Academy. This six-month immersive program that developed my skills in advanced red team/blue team skills as well as knowledge in networking and security tools.
+I then pivoted to the more technology side of hospitality, joining Autoclerk INC, Best Western Hotels and Resorts as a IT Technician. Autoclerk is a Hotel Property Management System with over 600+ properties world-wide. As I continued to grow, I became a IT Business Analyst for Best Western Hotels where I was part of a pioneer project team integrating the payment processor Stripe Platform/API for international hotels in compliance to the Payment Services/Strong Customer Authentication (PSD2/SCA) Directive in the European Economic Area (EEA).
 
-With completion of the certificate in April 2022, I am now continuing my drive and enthusiasm for growth and development in my career. With my POLISHED experiences both in customer/client relations, leadership, and hard skills in security tools and technology, I am confident in my ability to be a positive asset in my endeavors.
+I also went through the California State University East Bay Certificate of Cybersecurity Bootcamp powered by Fullstack Academy. This six-month immersive program that developed my skills in advanced red team/blue team skills as well as knowledge in networking and security tools. With completion of the certificate in April 2022, I am now continuing my drive and enthusiasm for growth and development in my career. With my POLISHED experiences both in customer/client relations, leadership, and hard skills in security tools and technology, I am confident in my ability to be a positive asset in my endeavors.
 
 Please enjoy this profile and I would love to connect further!
 
@@ -20,24 +21,16 @@ Mahalo, Derek Lin <br/>
   - [Log4j/log4shell (CVE 2021-22448)](https://github.com/dereklin15/Fullstack-Capstone-Final-Project
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h4> 🤳 Connect with me:</h4>
 
-- [How to get into Cybersecurity Starting From Zero](https://www)
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+
+[linkedin]: https://linkedin.com/in/derekklin
 
 <!--
+**Recieved outline of this layout from joshmadakor1/joshmadakor1
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
