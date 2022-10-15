@@ -1,5 +1,6 @@
 <h1>Hi, I'm Derek! <br/><a href="https://github.com/dereklin15"></a>, <a href="https://www.linkedin.com/in/derekklin/">Cybersecurity Professional</a><br/>
-Hello World, my name is Derek Lin and this is my Github profile. This is a place to get to know me better and show more of what I stand for and my capabilities. Core Values: POLISHED, THOUGHTFUL, ENTHUSIASTIC
+  <h2> About Me</h2> <br/>
+  Hello World, my name is Derek Lin and this is my Github profile. This is a place to get to know me better and show more of what I stand for and my capabilities. Core Values: POLISHED, THOUGHTFUL, ENTHUSIASTIC
 
 My career started after graduating from the University of Hawaii at Manoa with a B.S. in Travel Industry Management. I was able to excel in the hospitality industry and received management promotions operating one of the largest hotels in Hawaii, the Sheraton Waikiki. I gained copious skills and experience through my time there such as being Chamption of the Upsell Program and increasing upsell revenue by an average of 9.1% from 2016-2018 YOY, led hotel operations through the LOCAL 5 UNITE HERE 52-day union labor disruption, training and hiring 3 Guest Service Managers and 7 Guest Service Representatives, and managing staff and operations through a $250+ million full room renovation. These projects and experiences I encountered shaped my leadership style. Since hospitality is a people person business, I am THOUGHTFUL in all that I do and I care for others when making decisions for the future.
 
@@ -13,7 +14,7 @@ Please enjoy this profile and I would love to connect further!
 
 Mahalo, Derek Lin <br/>
 
-<h2>👨‍Cybersecurity Projects:</h2>
+<h3>👨‍Cybersecurity Projects:</h3>
 
 - <b>FullStack Academy Capstone Final Project (AlgoExpert)</b>
   - [Log4j/log4shell (CVE 2021-22448)](https://github.com/dereklin15/Fullstack-Capstone-Final-Project
