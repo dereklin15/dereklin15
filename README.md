@@ -1,4 +1,4 @@
-<h1>Hi, I'm Derek! <br/><a href="https://github.com/dereklin15"></a>
+<h1>Aloha, I'm Derek! <br/><a href="https://github.com/dereklin15"></a>
   Hospitality/Leadership/Cybersecurity Professional <br/>
   <h2> About Me</h2> <br/>
   Hello World, my name is Derek Lin and this is my Github profile. This is a place to get to know me better and show more of what I stand for and my capabilities. Core Values: POLISHED, THOUGHTFUL, ENTHUSIASTIC
